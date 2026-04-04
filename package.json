@@ -1,0 +1,15 @@
+{
+  "name": "stripe-invoice-downloader",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "auth": "node src/auth.js",
+    "download": "node src/download.js",
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.51.0"
+  }
+}

@@ -1,0 +1,3 @@
+# One YYYY-MM per line (used when INVOICE_MONTHS_FILE points here)
+2025-01
+2025-02
