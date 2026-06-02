@@ -15,7 +15,7 @@ You are a **customer** — no Stripe API keys needed. The tool uses **Playwright
 ## Setup
 
 ```bash
-git clone https://github.com/<you>/stripe-invoice-downloader.git
+git clone https://github.com/TimKraemer/stripe-invoice-downloader.git
 cd stripe-invoice-downloader
 npm install          # also runs: playwright install chromium
 cp .env.example .env
